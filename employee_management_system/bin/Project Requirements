@@ -1,0 +1,24 @@
+Project Requriements
+~~~~~~~~~~~~~~~~~~~~~~~
+1. Employee Detatils
+	- Employee Id
+		- Formate - 6 characters
+				  - First 3 characters are alphabets
+				  		- First 2 Characters of Name and Last character of name.
+				  - last 3 characters are Digits.
+				  EX :- Name - Raju -- Id - RAU901.
+	- Employee Name
+	- Employee Age
+	- Employee emailId
+	- Employee mobileNumber
+	- Employee type ("Developer","Tester","HR","Admin")
+	- Employee Designation
+	- Employee salary
+	- Employee Year of Experience
+	- Company Name
+2. Create a System that can Mange the employee
+	- Add an Employee, Remove an Employee
+	- Upadate Employee Detatils
+		- Detatils that can be Updated - ( MobileNumber, EmailId, Salary, Designation, years of Experience)
+	- Display all employee Details
+
